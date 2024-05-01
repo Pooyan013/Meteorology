@@ -1,0 +1,13 @@
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.2.0
+geographiclib==2.0
+geopy==2.3.0
+h3==3.7.6
+idna==3.4
+numpy @ file:///E:/Project/MiniProject/Meteorology/numpy-1.25.2-cp311-cp311-win_amd64.whl#sha256=5c97325a0ba6f9d041feb9390924614b60b99209a71a69c876f71052521d42a4
+pycparser==2.21
+pytz==2023.3
+requests==2.31.0
+timezonefinder @ file:///E:/Project/MiniProject/Meteorology/timezonefinder-6.2.0.tar.gz#sha256=d41fd2650bb4221fae5a61f9c2767158f9727c4aaca95e24da86394feb704220
+urllib3==2.0.4
